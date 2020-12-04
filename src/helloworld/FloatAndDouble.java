@@ -1,7 +1,7 @@
 package helloworld;
 
 public class FloatAndDouble {
-    public static void main(MyString[] args) {
+    public static void main(String[] args) {
         float myMinFloatValue = Float.MIN_VALUE;
         float myMaxFloatValue = Float.MAX_VALUE;
 

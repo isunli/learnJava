@@ -1,7 +1,7 @@
 package helloworld;
 
 public class Challenge {
-    public static void main(MyString[] args) {
+    public static void main(String[] args) {
         byte byteValue = 10;
         short shortValue = 20;
         int intValue = 50;

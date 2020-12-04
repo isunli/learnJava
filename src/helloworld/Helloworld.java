@@ -1,7 +1,7 @@
 package helloworld;
 
 public class Helloworld {
-    public static void main(MyString[] args) {
+    public static void main(String[] args) {
         System.out.println("Hello world");
         int myFirstNumber = 5;
         int myMinIntValue = Integer.MIN_VALUE;
