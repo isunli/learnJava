@@ -1,4 +1,4 @@
-package module2;
+package basic;
 
 public class KeyWordAndExpression {
     public static void main(String[] args) {
